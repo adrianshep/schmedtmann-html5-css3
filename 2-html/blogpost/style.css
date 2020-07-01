@@ -1,6 +1,10 @@
+body {
+    font-family: Helvetica Neue, Ariel;
+    font-size: 18px;
+}
+
 h1, h2 {
     color: green;
-    font-family: Helvetica Neue, Ariel;
 }
 
 h1 {
@@ -12,7 +16,5 @@ h2 {
 }
 
 p {
-    font-size: 18px;
     text-align: justify;
-    font-family: Helvetic Neue, Arial;
 }
