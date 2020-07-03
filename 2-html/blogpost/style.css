@@ -1,3 +1,10 @@
+/* asterisk selector - all elements will be affected */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: Helvetica Neue, Ariel;
     font-size: 18px;
