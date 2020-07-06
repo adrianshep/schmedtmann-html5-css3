@@ -16,6 +16,18 @@ body {
     margin-right: auto;
 }
 
+.blog-post {
+    background-color: #0000ff;
+}
+
+.other-posts {
+    background-color: #00ff00;
+}
+
+.author-text {
+    background-color: #ffff00;
+}
+
 h1, h2 {
     color: #00960b;
 }
