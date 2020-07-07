@@ -19,11 +19,13 @@ body {
 .blog-post {
     background-color: #0000ff;
     width: 75%;
+    float: left;
 }
 
 .other-posts {
     background-color: #00ff00;
     width: 25%;
+    float: left;
 }
 
 .author-box {
