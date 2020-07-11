@@ -39,6 +39,7 @@ h2 {
 
 .author-text {
     font-size: 22px;
+    float: left;
 }
 
 .container {
@@ -71,4 +72,12 @@ h2 {
 
 .other {
     margin-bottom: 40px;
+}
+
+/* rules will only apply to img in author-box selector: */
+.author-box img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
 }
