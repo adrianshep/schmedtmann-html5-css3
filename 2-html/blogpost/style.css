@@ -40,6 +40,8 @@ h2 {
 .author-text {
     font-size: 22px;
     float: left;
+    margin-top: 30px;
+    margin-left: 10px;
 }
 
 .container {
