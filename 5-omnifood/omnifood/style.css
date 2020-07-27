@@ -70,6 +70,15 @@ h2:after {
     margin-top: 30px;
 }
 
+/* ----- PARAGRAPHS ----- */
+.long-copy {
+    line-height: 145%;
+    width: 70%;
+    margin-left: 15%;
+    /* if full-width is 100%, 15% on left margin will leave 15% on right */
+}
+
+
 
 /* ----- BUTTONS ----- */
 /* pseudo-classes: appearance of <a> element in different states: */
