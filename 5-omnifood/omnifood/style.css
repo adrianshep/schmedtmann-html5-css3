@@ -89,7 +89,10 @@ h2:after {
     /* if full-width is 100%, 15% on left margin will leave 15% on right */
 }
 
-
+.box p {
+    font-size: 90%;
+    line-height: 145%;
+}
 
 /* ----- BUTTONS ----- */
 /* pseudo-classes: appearance of <a> element in different states: */
