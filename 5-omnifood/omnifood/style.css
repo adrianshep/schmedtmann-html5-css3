@@ -221,3 +221,14 @@ header {
     /* (will show elements side-by-side */
     width: 25%;
 }
+
+.meal-photo {
+    width: 100%;
+    /* 100% width of meals-showcase li parent */
+    margin: 0
+}
+
+.meal-photo img {
+    width: 100%;
+    height: auto;
+}
