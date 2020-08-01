@@ -230,9 +230,17 @@ header {
     width: 100%;
     /* 100% width of meals-showcase li parent */
     margin: 0
+    overflow: hidden;
 }
 
 .meal-photo img {
     width: 100%;
     height: auto;
+    transform: scale(1.15);
+    transition: transform 0.5s;
+}
+
+.meal-photo img:hover {
+    /* reduce size of img during hover to 103% from 115% */
+    transform: scale(1.03);
 }
