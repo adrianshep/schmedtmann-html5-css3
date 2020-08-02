@@ -248,7 +248,7 @@ header {
 .clearfix {zoom:1}
 
 .clearfix:after {
-    context: ".";
+    context: '.';
     clear: both;
     display: block;
     height: 0;
