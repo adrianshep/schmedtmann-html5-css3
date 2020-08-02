@@ -244,3 +244,13 @@ header {
     /* reduce size of img during hover to 103% from 115% */
     transform: scale(1.03);
 }
+
+.clearfix {zoom:1}
+
+.clearfix:after {
+    context: ".";
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
