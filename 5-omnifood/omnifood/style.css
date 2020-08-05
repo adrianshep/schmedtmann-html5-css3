@@ -289,3 +289,6 @@ this was attempt to fix img:hover shrinkage; problem was a missing ; after meal-
     padding-left: 3%;
 }
 
+.app-screen {
+    width: 40%;
+}
