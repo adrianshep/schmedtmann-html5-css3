@@ -256,6 +256,9 @@ header {
     transform: scale(1.03);
 }
 
+/* 
+this was attempt to fix img:hover shrinkage; problem was a missing ; after meal-photo margin: 0
+
 .clearfix {zoom:1}
 
 .clearfix:after {
@@ -264,4 +267,5 @@ header {
     display: block;
     height: 0;
     visibility: hidden;
-}
+} 
+*/
