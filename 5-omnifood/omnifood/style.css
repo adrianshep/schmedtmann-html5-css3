@@ -236,7 +236,7 @@ header {
 .meal-photo {
     width: 100%;
     /* 100% width of meals-showcase li parent */
-    margin: 0
+    margin: 0;
     overflow: hidden;
     background-color: #000;
 }
