@@ -284,6 +284,10 @@ this was attempt to fix img:hover shrinkage; problem was a missing ; after meal-
 /* HOW IT WORKS */
 /* ---------------------------------------- */
 
+.section-steps {
+    background-color: #f4f4f4;
+}
+
 .steps-box:first-child {
     text-align: right;
     padding-right: 3%;
