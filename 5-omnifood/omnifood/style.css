@@ -21,7 +21,7 @@ html {
     text-rendering: optimizeLegibility;
 }
 
-.clearfix {zoom: 1}
+.clearfix{zoom: 1}
 .clearfix:after {
     context: '.';
     clear: both;
@@ -329,4 +329,19 @@ this was attempt to fix img:hover shrinkage; problem was a missing ; after meal-
     height: 50px;
     width: auto;
     margin-right: 10px;
+}
+
+
+/* ---------------------------------------- */
+/* CITIES */
+/* ---------------------------------------- */
+
+.box img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.city-feature {
+    margin-bottom: 5px;
 }
