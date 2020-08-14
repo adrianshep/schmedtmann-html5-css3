@@ -133,6 +133,7 @@ a:visited {
     text-decoration: none;
     padding-bottom: 1px;
     border-bottom: 1px solid #e67e22;
+    transition: border-bottom 0.2s, color 0.2s;
 }
 
 
