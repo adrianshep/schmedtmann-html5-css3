@@ -136,6 +136,11 @@ a:visited {
     transition: border-bottom 0.2s, color 0.2s;
 }
 
+a:hover,
+a:active {
+    color: #555;
+    border-bottom: 1px solid transparent;
+}
 
 /* ----- BUTTONS ----- */
 /* pseudo-classes: appearance of <a> element in different states: */
