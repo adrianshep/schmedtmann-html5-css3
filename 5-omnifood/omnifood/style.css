@@ -378,3 +378,13 @@ this was attempt to fix img:hover shrinkage; problem was a missing ; after meal-
 .city-feature {
     margin-bottom: 5px;
 }
+
+
+/* ---------------------------------------- */
+/* TESTIMONIALS */
+/* ---------------------------------------- */
+
+.section-testimonials {
+    background-image: url(resources/css/img/back-customers.jpg);
+    background-size: cover;
+}
