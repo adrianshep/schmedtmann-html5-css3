@@ -391,3 +391,9 @@ this was attempt to fix img:hover shrinkage; problem was a missing ; after meal-
     color: #fff;
     background-attachment: fixed;
 }
+
+blockquote {
+    padding: 2%;
+    font-style: italic;
+    line-height: 145%;
+}
