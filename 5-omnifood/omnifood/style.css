@@ -404,7 +404,7 @@ blockquote:before {
     content: "\201C";
     font-size: 500%;
     display: block;
-    position: absolute;
+    positions: absolute;
     top: -5px;
     left: -5px;
 }
@@ -420,4 +420,13 @@ cite img {
     border-radius: 50%;
     margin-right: 10px;
     vertical-align: middle;
+}
+
+
+/* ---------------------------------------- */
+/* SIGN UP */
+/* ---------------------------------------- */
+
+.section-plans {
+    background-color: #f4f4f4;
 }
