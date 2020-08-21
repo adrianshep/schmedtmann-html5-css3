@@ -449,6 +449,12 @@ cite img {
     font-weight: 100;
 }
 
+.plan-price span {
+    font-size: 30%;
+    font-weight: 300;
+    color: #e67e22;
+}
+
 .plan-price-meal {
     font-size: 80%;
 }
