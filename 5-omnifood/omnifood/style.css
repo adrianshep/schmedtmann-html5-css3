@@ -459,3 +459,6 @@ cite img {
     font-size: 80%;
 }
 
+.plan-box ul {
+    list-style: none;
+}
