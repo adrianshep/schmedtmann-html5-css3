@@ -526,3 +526,8 @@ footer {
     list-style: none;
     float: left;
 }
+
+.social-icons {
+    list-style: none;
+    float: right;
+}
