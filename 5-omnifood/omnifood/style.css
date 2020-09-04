@@ -521,3 +521,8 @@ input[type=checkbox] {
 footer {
     background-color: #333;
 }
+
+.footer-nav {
+    list-style: none;
+    float: left;
+}
