@@ -551,3 +551,8 @@ footer {
     border: 0;
     color: #888;
 }
+
+.footer-nav li a:hover,
+.footer-nav lie a:active {
+    color: #ddd;
+}
