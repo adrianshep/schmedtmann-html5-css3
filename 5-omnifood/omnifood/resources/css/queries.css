@@ -53,10 +53,16 @@
     
     .row,
     .hero-text-box { padding: 0 4%; }
-
     .col { width: 100%; }
-
     .main-nav { display: none; }
+
+    h1 { font-size: 180%; }
+    h2 { font-size: 150%; }
+
+    .long-copy {
+        width: 100%;
+        margin-left: 0%;
+    }
 }
 
 
