@@ -55,6 +55,8 @@
     .hero-text-box { padding: 0 4%; }
 
     .col { width: 100%; }
+
+    .main-nav { display: none; }
 }
 
 
