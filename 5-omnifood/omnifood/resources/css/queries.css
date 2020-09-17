@@ -63,6 +63,10 @@
         width: 100%;
         margin-left: 0%;
     }
+
+    .works-steps { margin-bottom: 20px; }
+    .works-steps:last-of-type { margin-bottom: 20px; }
+
 }
 
 
