@@ -637,6 +637,10 @@ footer p {
     animation-duration: 1s;
 }
 
+.js--wp-4 {
+    animation-duration: 1s;
+}
+
 .js--wp-1 .animate__animated,
 .js--wp-2 .animate__animated,
 .js--wp-3 .animate__animated {
