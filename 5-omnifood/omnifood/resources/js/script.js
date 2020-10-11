@@ -63,6 +63,12 @@ $(document).ready(function() {
         $('.js--wp-4').addClass('animate__animated animate__pulse');
     }, {
         offset: '50%'
-    })
+    });
+
+
+    /* Mobile Navigation */
+    $('.js--nav-icon').click(function() {
+        var nav = $('.js--main-nav');
+    });
 
 });
