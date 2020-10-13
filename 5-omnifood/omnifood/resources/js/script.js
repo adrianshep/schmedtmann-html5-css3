@@ -68,7 +68,7 @@ $(document).ready(function() {
 
     /* Mobile Navigation */
 
-    /* recommended fix code */
+    /* recommended fix code:
 
 
     $('.js--nav-icon, .js--main-nav a, .logo-black').click(function(element){
@@ -113,22 +113,23 @@ $(document).ready(function() {
         }
 
     });
-
+    */
 
     /* original code */
 
-    // $('.js--nav-icon').click(function() {
-    //     var nav = $('.js--main-nav');
-    //     var icon = $('.js--nav-icon i');
+    /*
+    $('.js--nav-icon').click(function() {
+        var nav = $('.js--main-nav');
+        var icon = $('.js--nav-icon i');
 
-    //     nav.slideToggle(200);
-    //     if (icon.hasClass('ion-navicon-round')) {
-    //         icon.addClass('ion-close-round');
-    //         icon.removeClass('ion-navicon-round');
-    //     } else {
-    //         icon.addClass('ion-navicon-round');
-    //         icon.removeClass('ion-close-round');
-    //     }
-    // });
-
+        nav.slideToggle(200);
+        if (icon.hasClass('ion-navicon-round')) {
+            icon.addClass('ion-close-round');
+            icon.removeClass('ion-navicon-round');
+        } else {
+            icon.addClass('ion-navicon-round');
+            icon.removeClass('ion-close-round');
+        }
+    });
+    */
 });
