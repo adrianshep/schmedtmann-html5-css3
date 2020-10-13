@@ -59,7 +59,7 @@
         margin: 0 0 4% 0;
     }
 
-/* */
+/* new js fiddle solution
 .main-nav { display: none; }
     .mobile-nav-icon {
         display: inline-block;
@@ -109,9 +109,8 @@
     .sticky .mobile-nav-icon { margin-top: 10px; }
     .sticky .mobile-nav-icon i { color: #555; }
     .sticky .mobile-nav-icon i.ion-close-round { color: #fff; }
+*/
 
-
-/* 
     .main-nav { display: none; }
     .mobile-nav-icon { display: inline-block; }
 
