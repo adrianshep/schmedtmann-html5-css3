@@ -32,6 +32,7 @@ body {
 .pizza {
     max-width: 800px;
     border-radius: 4px;
+    overflow: hidden;
     box-shadow: 0 3opx 80px 10px rgba(0,0,0,.2);
 
     display: flex;
