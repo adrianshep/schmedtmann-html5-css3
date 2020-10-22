@@ -20,6 +20,13 @@ body {
     padding: 50px;
     background: linear-gradient(to bottom right, #67b26f, #4ca2cd);
     height: 100vh;
+
+    display: flex;
+    /* cross axis */
+    align-items: center;
+    /* main axis */
+    justify-content: center;
+
 }
 
 .pizza {
@@ -28,6 +35,7 @@ body {
     box-shadow: 0 3opx 80px 10px rgba(0,0,0,.2);
 
     display: flex;
+    align-items: stretch;
 }
 
 .pizza__hero {
