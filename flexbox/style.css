@@ -66,10 +66,14 @@ body {
 }
 
 .pizza__title {
-
+    display: flex;
 }
 
 .pizza__heading {
+    font-size: 20px;
+}
+
+.pizza__tag {
     
 }
 
