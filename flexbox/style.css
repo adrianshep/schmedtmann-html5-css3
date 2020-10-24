@@ -51,6 +51,7 @@ body {
 .pizza__content {
     flex: 1;
     background: white;
+    padding: 35px 30px;
 }
 
 .pizza__price {
@@ -72,6 +73,7 @@ body {
 
 .pizza__heading {
     font-size: 20px;
+    margin-right: auto;
 }
 
 .pizza__tag {
