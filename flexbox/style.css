@@ -87,3 +87,7 @@ body {
 
 .pizza__tag--1 { background-color: #67b26f; }
 .pizza__tag--2 { background-color: #4ca2cd; }
+
+.pizza__description {
+    font-size: 14px;
+}
