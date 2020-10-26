@@ -69,6 +69,7 @@ body {
 .pizza__title {
     display: flex;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 .pizza__heading {
