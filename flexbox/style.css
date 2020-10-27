@@ -98,9 +98,12 @@ body {
 }
 
 .pizza__detail {
-    
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-right: 20px;
+    font-weight: 700;
 }
 
 .emoji {
-    
+
 }
