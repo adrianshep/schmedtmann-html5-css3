@@ -98,6 +98,7 @@ body {
 
 .pizza__details {
     display: flex;
+    margin-top: auto;
 }
 
 .pizza__detail {
