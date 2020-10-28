@@ -52,6 +52,9 @@ body {
     flex: 1;
     background: white;
     padding: 35px 30px;
+
+    display: flex;
+    flex-direction: column;
 }
 
 .pizza__price {
