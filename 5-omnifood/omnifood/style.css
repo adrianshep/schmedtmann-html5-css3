@@ -566,6 +566,13 @@ input[type=checkbox] {
     position: relative;
 }
 
+.map {
+    width: 100%;
+    height: 650px;
+    position: relative;
+    z-index: 0;
+}
+
 .form-messages {
     width: 70%;
     margin: 0 auto;
