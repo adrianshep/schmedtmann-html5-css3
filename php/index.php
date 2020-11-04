@@ -357,7 +357,7 @@ I was looking for a quick and easy food delivery service in San Franciso. I trie
 
                         <div class="form-messages success">Thank you! Your message has been sent.</div>
 
-                        <!-- <div class="form-messages error">Oops! Something went wrong. Please try again!</div> -->
+                        <div class="form-messages error">Oops! Something went wrong. Please try again!</div>
 
                         ?>
 
